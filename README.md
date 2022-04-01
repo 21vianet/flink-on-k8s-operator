@@ -1,14 +1,11 @@
 # Kubernetes Operator for Apache Flink
 
-**This is not an officially supported Google product.**
+**This is a specially modified version of the flink operator that performs edge computing tasks.**
 
 Kubernetes Operator for Apache Flink is a control plane for running [Apache Flink](https://flink.apache.org/) on
 [Kubernetes](https://kubernetes.io/).
 
 ## Community
-
-* Ask questions, report bugs or propose features [here](https://github.com/GoogleCloudPlatform/flink-on-k8s-operator/issues)
-or join our [Slack](https://app.slack.com/client/T09NY5SBT/CQYSE926R) channel.
 
 * Check out [who is using the Kubernetes Operator for Apache Flink](docs/who_is_using.md).
 
